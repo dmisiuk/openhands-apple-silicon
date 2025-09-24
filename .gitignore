@@ -5,6 +5,7 @@
 *.pid
 openhands.log
 openhands.pid
+security.log
 
 # Temporary files
 *.tmp
